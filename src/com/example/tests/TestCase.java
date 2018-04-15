@@ -33,7 +33,7 @@ public class TestCase {
   @Test
   public void test() throws Exception {
 	  
-	  File file = new File("input1.xlsx");  
+	  File file = new File("input.xlsx");  
       InputStream inputStream = null;  
       Workbook workbook = null;  
       try {  
